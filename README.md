@@ -1,7 +1,7 @@
 # python-telegram-bot
 ### Screenshots
 
-<img src="images/Screenshot_20210630-194601_Telegram.jpg" height="450em" />&emsp;<img src="images/telegram-bot-working.mp4" height="450" />&emsp;<img src="images/Screenshot_20210630-194628_Telegram.jpg" height="450em" /><br>
+<img src="images/Screenshot_20210630-194601_Telegram.jpg" height="450em" />&emsp;<img src="images/telegram-bot_video.gif" height="450" />&emsp;<img src="images/Screenshot_20210630-194628_Telegram.jpg" height="450em" /><br>
 ## How to make python-telegram-bot
 ### 1. Registering a Telegram Bot
        
